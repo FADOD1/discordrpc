@@ -10,7 +10,9 @@
 # PURPOSE OF THE APPLICATION 🇺🇸:
 
 Discord's native feature of presence or RPC(Rich Presence) for linux has discord rpc, but most of the time (or 100% of the time) it doesn't work correctly as it should. Mainly in games, since it works with Spotify perfectly for some reason, but not with games. Showing most of the time just the name of the game (and even not the correct name).
-INTUITO DA APLICAÇÃO 🇧🇷:
+
+# INTUITO DA APLICAÇÃO 🇧🇷:
+
 A função nativa do discord de presença ou o RPC(Rich Presence) para linux possui o discord rpc, mas, na maioria das vezes (ou 100% das vezes) ele não funciona corretamente como deveria. Principalmente em jogos, ja que ele funciona com o spotify perfeitamente por algum motivo, mas não com jogos. Mostrando apenas na maior parte do tempo apenas o nome do jogo (e ainda não o nome correto).
 
 # FUNCTIONS/HOW IT WORKS 🇺🇸:
