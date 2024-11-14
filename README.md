@@ -3,6 +3,10 @@
 
 # Brasil 🇧🇷: Isso é Discordrpc para linux!!!!
 
+
+![Captura de tela de 2024-11-14 10-54-12](https://github.com/user-attachments/assets/b60d8cba-7619-4873-85e6-870f582cba2a)
+
+
 # PURPOSE OF THE APPLICATION 🇺🇸:
 
 Discord's native feature of presence or RPC(Rich Presence) for linux has discord rpc, but most of the time (or 100% of the time) it doesn't work correctly as it should. Mainly in games, since it works with Spotify perfectly for some reason, but not with games. Showing most of the time just the name of the game (and even not the correct name).
