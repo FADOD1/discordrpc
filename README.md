@@ -9,11 +9,11 @@
 
 # PURPOSE OF THE APPLICATION 🇺🇸:
 
-Discord's native feature of presence or RPC(Rich Presence) for linux has discord rpc, but most of the time (or 100% of the time) it doesn't work correctly as it should. Mainly in games, since it works with Spotify perfectly for some reason, but not with games. Showing most of the time just the name of the game (and even not the correct name).
+Discord's native presence function or RPC(Rich Presence) for Linux exists, but most of the time (or 100% of the time) it doesn't work correctly as it should. Mainly in games, because unlike the Windows version, the game icon is not displayed, nor information about the details of the activity we are in, etc. It was at this impasse that I decided to put my skills to the test and create this project, in a way that while it is simple, it can have all the features of the Windows version.
 
 # INTUITO DA APLICAÇÃO 🇧🇷:
 
-A função nativa do discord de presença ou o RPC(Rich Presence) para linux possui o discord rpc, mas, na maioria das vezes (ou 100% das vezes) ele não funciona corretamente como deveria. Principalmente em jogos, ja que ele funciona com o spotify perfeitamente por algum motivo, mas não com jogos. Mostrando apenas na maior parte do tempo apenas o nome do jogo (e ainda não o nome correto).
+A função nativa do discord de presença ou o RPC(Rich Presence) para linux existe, mas, na maioria das vezes (ou 100% das vezes) ele não funciona corretamente como deveria. Principalmente em jogos, porque diferentemente da versão de windows não e exibido o icone do jogo, nem informações sobre o detalhe da atividade em que estamos, etc. Fui nesse impasse que decidi por minhas habilidades a prova e criar este projeto, de uma maneira que ao mesmo tempo que ele seja simples ele possa ter todas as funcionalidades da versão de windows.
 
 # FUNCTIONS/HOW IT WORKS 🇺🇸:
 
