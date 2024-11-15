@@ -76,7 +76,39 @@ Antes de começar, certifique-se de que seu sistema possui:
    ```bash
    ./DiscordRichPresence
 ```
+
+### **"Recomendado": Criar um atalho .desktop**
    
+   Para facilitar o acesso, crie um atalho no menu de aplicativos do Linux.
+   Crie um arquivo .desktop:
+   ```bash
+      nano ~/.local/share/applications/discord-rich-presence.desktop
+```
+
+   **Adicione o conteúdo abaixo (ajuste os caminhos conforme necessário):**
+   ```bash
+   [Desktop Entry]
+   Name=Discord Rich Presence
+   Exec=/caminho/para/DiscordRichPresence
+   Icon=/caminho/para/icon.png
+   Type=Application
+   Categories=Utility;
+```
+   **Torne o atalho executável:**
+   ```bash
+   chmod +x ~/.local/share/applications/discord-rich-presence.desktop
+```
+   **Atualize o cache do menu de aplicativos:**
+   ```bash
+   update-desktop-database ~/.local/share/applications
+```
+   
+
+   
+
+
+
+
 
 
 
