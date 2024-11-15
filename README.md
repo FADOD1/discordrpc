@@ -59,4 +59,25 @@ Antes de começar, certifique-se de que seu sistema possui:
    ```bash
    sudo apt install libffi-dev libssl-dev
 
+### **Download e Extração**
+
+1. Acesse a [página de releases](https://github.com/FADOD1/discordrpc/releases) e baixe o arquivo `DiscordRichPresence-linux.tar.gz`.
+2. Extraia o conteúdo baixado:
+   ```bash
+   tar -xvzf DiscordRichPresence-linux.tar.gz
+
+### ** Executar o Aplicativo**
+   Dê permissão de execução ao arquivo:
+   ```bash
+   chmod +x DiscordRichPresence
+```
+
+   Execute o aplicativo:
+   ```bash
+   ./DiscordRichPresence
+```
+   
+
+
+
 
