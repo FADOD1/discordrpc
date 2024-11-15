@@ -38,4 +38,25 @@ Temporizador de Sessão: Exibe o tempo decorrido desde que a aplicação foi ini
 
 Imagens e Ícones: Adiciona imagens personalizadas (ícones grandes e pequenos) que representam a aplicação ou a atividade.
 
-# INSTALAÇÃO -> EM BREVE.....
+
+## Tutorial de Instalação (Linux)
+
+Este guia ensina como instalar e usar o **Rich Presence para Discord**.
+
+---
+
+### **Pré-requisitos**
+
+Antes de começar, certifique-se de que seu sistema possui:
+
+1. **Python 3.8 ou superior**  
+   Instale com:
+   ```bash
+   sudo apt update && sudo apt install python3
+
+2. **Dependências básicas**
+   Instale com:
+   ```bash
+   sudo apt install libffi-dev libssl-dev
+
+
