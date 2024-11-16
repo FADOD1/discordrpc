@@ -6,6 +6,9 @@
 
 ![Captura de tela de 2024-11-14 10-54-12](https://github.com/user-attachments/assets/b60d8cba-7619-4873-85e6-870f582cba2a)
 
+![image](https://github.com/user-attachments/assets/73f6c12a-d551-4ad0-b391-c6346ea032a4)
+
+
 
 # PURPOSE OF THE APPLICATION 🇺🇸:
 
