@@ -72,10 +72,6 @@ Antes de começar, certifique-se de que seu sistema possui:
    chmod +x DiscordRichPresence
 ```
 
-   Execute o aplicativo:
-   ```bash
-   ./DiscordRichPresence
-```
 
 ### **"Recomendado": Criar um atalho .desktop**
    
