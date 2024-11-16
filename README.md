@@ -61,10 +61,8 @@ Antes de começar, certifique-se de que seu sistema possui:
 
 ### **Download e Extração**
 
-1. Acesse a [página de releases](https://github.com/FADOD1/discordrpc/releases) e baixe o arquivo `DiscordRichPresence-linux.tar.gz`.
-2. Extraia o conteúdo baixado:
-   ```bash
-   tar -xvzf DiscordRichPresence-linux.tar.gz
+ Acesse a [página de releases](https://github.com/FADOD1/discordrpc/releases) e baixe o arquivo `Discordrpc`.
+   
 
 ### ** Executar o Aplicativo**
    Dê permissão de execução ao arquivo:
@@ -85,7 +83,7 @@ Antes de começar, certifique-se de que seu sistema possui:
    ```bash
    [Desktop Entry]
    Name=Discord Rich Presence
-   Exec=/caminho/para/DiscordRichPresence
+   Exec=/home/usuario/DiscordRichPresence
    Icon=/caminho/para/icon.png
    Type=Application
    Categories=Utility;
