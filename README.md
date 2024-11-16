@@ -59,7 +59,7 @@ Antes de começar, certifique-se de que seu sistema possui:
    ```bash
    sudo apt install libffi-dev libssl-dev
 
-### **Download e Extração**
+### **Download**
 
  Acesse a [página de releases](https://github.com/FADOD1/discordrpc/releases) e baixe o arquivo `Discordrpc`.
    
