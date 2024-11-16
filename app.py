@@ -3,8 +3,9 @@ from pypresence import Presence
 import time
 import threading
 
-# Versão da aplicação
+# Versão da aplicação / Creditos
 VERSION = "1.0.0"
+AUTHOR = "FADOD1"
 
 class DiscordRichPresenceApp:
     def __init__(self):
